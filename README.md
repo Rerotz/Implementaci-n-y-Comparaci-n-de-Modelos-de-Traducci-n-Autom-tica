@@ -164,12 +164,4 @@ Evaluar el BLEU score final.
 
 Iniciar una interfaz interactiva en la consola para probar traducciones.
 
-👨‍💻 Autores
 
-Aguilar Jiménez, Juan Pablo
-
-Díaz Chura, Jhon Alexis
-
-Espirilla Sutta, Marcelo
-
-Villasante García, Julio André
